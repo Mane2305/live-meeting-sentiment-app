@@ -1,0 +1,30 @@
+# Node.js / Next.js
+node_modules/
+.next/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JetBrains IDEs
+.idea/
