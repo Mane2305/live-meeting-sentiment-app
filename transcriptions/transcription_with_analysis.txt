@@ -1,0 +1,4 @@
+Transcription: Hello. Hello, everyone.
+
+Sentiment: Neutral
+Emotions: {}

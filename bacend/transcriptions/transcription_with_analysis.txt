@@ -1,0 +1,4 @@
+Transcription: Hello. Hello, everyone. We are today today starting project name. I'm happy to say that because this is very and I'm very angry time.
+
+Sentiment: Neutral
+Emotions: {'joy': 1, 'anger': 1}
