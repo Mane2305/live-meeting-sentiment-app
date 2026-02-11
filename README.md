@@ -180,5 +180,8 @@ http://localhost:8000
 - Meeting-level sentiment summary analytics
 
 ---
+## Linkedin Post Link 
+
+https://www.linkedin.com/posts/saurabhmane2305_ai-fullstackdeveloper-nlp-activity-7360310922160013313-zHMW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD59pa4BYOx5NZFIGOLBkuRA4t5OvyjT900
 
 Author: Saurabh Mane
