@@ -46,4 +46,5 @@ source venv/bin/activate
 venv\Scripts\activate
 
 pip install -r requirements.txt
-uvicorn main:app --reload
+uvicorn main:app --reload<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/8eca4d69-f8f0-41e1-aca1-81fc26345a10" />
+
